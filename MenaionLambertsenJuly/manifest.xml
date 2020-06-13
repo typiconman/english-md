@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="c5f4a892-07d2-4495-8951-90bd47ecbb6d"/>
+		<meta name="lang" content="en"/>
+		<meta name="title" content="Menaion, July"/>
+		<meta name="latin" content="MenaionLambertsenJuly"/>
+		<meta name="publisher" content="SJKP"/>
+		<meta name="year" content="2020"/>
+		<meta name="note" content="Not clear what the edition was"/>
+	</head>
+	<manifest>
+		<chapter file="0701383" name="Holy &amp; Unmercenary Physicians &amp; Wonder-workers Cosmas &amp; Damian"/>
+		<chapter file="0701553" name="Nicodemus of the Holy Mountain"/>
+		<chapter file="0702" name="Deposition of the Robe of the Theotokos"/>
+		<chapter file="0702482" name="Juvenal, Patriarch of Jerusalem"/>
+		<chapter file="0703" name="Holy Martyr Hyacinth"/>
+		<chapter file="0704" name="Holy Right-believing Martyred Tsar Nicholas II"/>
+		<chapter file="0704384" name="Saint Andrew the Jerusalemite, Archbishop of Crete"/>
+		<chapter file="0705" name="Grand Duchess Elizabeth"/>
+		<chapter file="0705483" name="St. Sergius the Wonder-worker, Abbot of Radonezh"/>
+ 		<chapter file="0705554" name="Commemoration of the Venerable Martyrs Elizabeth &amp; Barbara"/>
+  		<chapter file="0706" name="St. Sisoës the Great"/>
+   		<chapter file="0706555" name="Righteous Virgin Juliana, Princess Ol’shanskaya"/>
+   		<chapter file="0707385" name="Sts. Thomas of Mount Maleum &amp; Acacius of Mount Sinai"/>
+   		<chapter file="0708" name="Commemoration of the Kazan Icon"/>
+   		<chapter file="0708386" name="Holy Greatmartyr Procopius"/>
+  		<chapter file="0709" name="Holy Hieromartyr Pancratius"/>
+   		<chapter file="0710" name="45 Holy Martyrs of Nicopolis of Armenia"/>
+   		<chapter file="0710539" name="St. Anthony of the Caves of Kiev"/>
+   		<chapter file="0711" name="Martyr Euphemia the All-praised &amp; St. Olga" />
+   		<chapter file="0711556" name="Commemoration of the Holy &amp; Blessed Olga"/>
+    	<chapter file="0712391" name="Holy Martyrs Proclus &amp; Hilarius"/>
+    	<chapter file="07125573" name="Commemoration of the Image of the Theotokos &quot;Icon of the Three Hands&quot;"/>
+    	<chapter file="0713" name="Synaxis of the Holy Archangel Gabriel"/>
+    	<chapter file="07136" name="Holy Fathers of the Six Ecumenical Councils"/>
+   		<chapter file="0714392" name="Holy Apostle Aquila"/>
+    	<chapter file="0715387" name="Holy Prince Vladimir the Great, Equal of the Apostles"/>
+     	<chapter file="0716393" name="Holy Hieromartyr Athenogenes"/>
+    	<chapter file="0717394" name="Holy Greatmartyr Marina"/>
+   		<chapter file="0718395" name="Holy Martyr Emilian"/>
+  		<chapter file="0719396" name="Venerable Mother Macrina"/>
+ 		<chapter file="0720" name="Holy and Glorious Prophet Elijah"/>
+		<chapter file="0721397" name="Sts. Symeon, the Fool for Christ’s Sake &amp; John, His Companion"/>
+		<chapter file="0722305" name="Holy Equal of the Apostles Mary Magdalene"/>
+		<chapter file="0723" name="Holy Martyrs Trophimus, Theophilus, and those with them"/>
+		<chapter file="0724" name="Holy New-hieromartyr Maximus Sandovich, Protomartyr of the Lemko People"/>
+   		<chapter file="0724484" name="Holy Passion-Bearers Boris &amp; Gleb"/>
+   		<chapter file="07255" name="Dormition of the Righteous Anna, the Mother of the All-holy Theotokos"/>
+   		<chapter file="0726559" name="Holy Venerable Martyr Parasceva"/>
+   		<chapter file="0726560" name="St. Moses of the Carpathians"/>
+   		<chapter file="0727" name="Holy Great Martyr and Healer Panteleimon"/>
+   		<chapter file="07275617" name="Seven Holy Enlighteners of the Slavs &amp; the Bulgars"/>
+   		<chapter file="0728" name="St. Pitirim, Bishop of Tambov"/>
+   		<chapter file="0728399" name="Holy Apostles Prochorus, Nicanor, Timon &amp; Parmenus"/>
+   		<chapter file="0728562" name="Commemoration of the Smolensk Icon"/>
+   		<chapter file="0729388" name="Holy Martyr Callinicus"/>
+   		<chapter file="0730" name="Holy Apostles Silas &amp; Silvanus, and Those with Them"/>
+   		<chapter file="0730400" name="Holy Martyr John the Warrior"/>
+   		<chapter file="0730563" name="St. Germanus, Wonderworker of Solovki"/>
+   		<chapter file="0731" name="Forefeast of the Procession of the Precious &amp; Life-creating Cross of the Lord"/>
+	</manifest>
+</bookdata>
