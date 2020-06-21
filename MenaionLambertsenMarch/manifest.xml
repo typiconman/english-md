@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="29a9f63b-2f9d-4b44-82d0-f11fbb62813d"/>
+		<meta name="lang" content="en"/>
+		<meta name="title" content="Menaion, March"/>
+		<meta name="latin" content="MenaionLambertsenMarch"/>
+		<meta name="publisher" content="Tr. by Isaac Lambertsen"/>
+		<meta name="year" content="2000"/>
+		<meta name="note" content="Not clear what the edition was"/>
+	</head>
+	<manifest>
+		<chapter file="0301" name="March 1: Holy Martyred Nun Eudocia"/>
+  		<chapter file="0302123" name="March 2: Holy Hieromartyr Theodotus, Bishop of Cyrenia"/>
+		<chapter file="0302" name="March 2: Commemoration of the Manifestation of the &quot;Reigning&quot; Icon of the All-holy Theotokos"/>
+		<chapter file="0303" name="March 3: Holy Martyrs Eutropius, Cleonicus &amp; Basiliscus"/>
+		<chapter file="0304" name="March 4: Venerable Father Gerasimus of the Jordan"/>
+		<chapter file="0305" name="March 5: Holy Martyr Conon"/>
+   		<chapter file="030642" name="March 6: Forty-Two Martyrs of Amorium"/>
+		<chapter file="0307" name="March 7: Holy Hieromartyrs who were bishops in Cherson"/>
+		<chapter file="0308" name="March 8: Venerable Father Theophylactus the Confessor, Bishop of Nicomedia"/>
+		<chapter file="0309" name="March 9: Holy Forty Martyrs of Sebaste"/>
+		<chapter file="0310" name="March 10: Holy Martyr Codratus"/>
+ 		<chapter file="0311" name="March 11: St. Sophronius, Patriarch of Jerusalem"/>
+  		<chapter file="0312" name="March 12: St. Theophanes the Confessor of Mount Sigriana"/>
+		<chapter file="0312441" name="March 12: Venerable Father Symeon the New Theologian"/>
+ 		<chapter file="0312276" name="March 12: Our Father Among the Saints, Gregory the Dialogist, Pope of Rome"/>
+   		<chapter file="0313" name="March 13: Translation of the Relics of St. Nicephorus, Patriarch of Constantinople"/>
+   		<chapter file="0314" name="March 14: St. Benedict of Nursia"/>
+    	<chapter file="03156" name="March 15: Holy Martyr Agapius"/>
+   		<chapter file="0316" name="March 16: Holy Martyr Sabinas"/>
+   		<chapter file="0317" name="March 17: Venerable Father Alexis, Man of God"/>
+		<chapter file="0317345" name="March 17: Our Father among the Saints Patrick, Enlightener of the Irish Land"/>
+  		<chapter file="0318" name="March 18: St. Cyril, Archbishop of Jerusalem"/>
+   		<chapter file="0319" name="March 19: Holy Martyrs Chrysanthus &amp; Daria"/>
+   		<chapter file="0320" name="March 20: Holy Fathers Slain in the Monastery of Saint Sabbas"/>
+   		<chapter file="0321" name="March 21: St. James the Confessor, Bishop of Catania"/>
+   		<chapter file="0322" name="March 22: Holy Hieromartyr Basil, Priest of the Church of Ancyra"/>
+		<chapter file="0323200" name="March 23: Martyred Monk Nicon and Two Hundred of His Disciples Martyred with Him"/>
+    	<chapter file="0324" name="March 24: Forefeast of the Annunciation of the All-holy Virgin"/>
+		<chapter file="0325442" name="March 25: Feast of the Annunciation of the Theotokos"/>
+    	<chapter file="0326" name="March 26: Synaxis of the Archangel Gabriel"/>
+   		<chapter file="0326443" name="March 26: Holy Hieromartyr Irenæus of Sirmium"/>
+    	<chapter file="0327" name="March 27: Holy Martyr Matrona of Thessalonica"/>
+    	<chapter file="0328" name="March 28: Venerable Fathers Hilarion the New &amp; Stephen the Wonderworker"/>
+   		<chapter file="0329" name="March 29: Venerable Father Mark, Bishop of Arethusa, Cyril the Deacon &amp; Others"/>
+    	<chapter file="0330" name="March 30: Venerable Father John, Author of &quot;The Ladder&quot;"/>
+   		<chapter file="0330444" name="March 30: Our Father Among the Saints Sophronius the Wonder-worker, Bishop of Irkutsk"/>
+     	<chapter file="0331" name="March 31: Venerable Hypatius the Wonderworker, Bishop of Gangra"/>
+   		<chapter file="0331789" name="March 31: Appearance of the Iveron Icon"/>
+	</manifest>
+</bookdata>
