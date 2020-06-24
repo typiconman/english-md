@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="103af1e1-e890-41db-b9b9-882dc2420357"/>
+		<meta name="lang" content="en"/>
+		<meta name="title" content="Menaion, August"/>
+		<meta name="latin" content="MenaionLambertsenAugust"/>
+		<meta name="publisher" content="Tr. by Isaac Lambertsen"/>
+		<meta name="year" content="2000"/>
+		<meta name="note" content="Not clear what the edition was"/>
+	</head>
+	<manifest>
+		<chapter file="0801401" name="August 1: Procession of the Precious Wood of the Cross &amp; Commemoration of the 7 Holy Maccabee Children"/>
+		<chapter file="0801" name="August 1: Feast of the Most-Merciful Savior &amp; the All-Holy Theotokos"/>
+ 		<chapter file="0802067" name="August 2: Transfer of the Relics of the Holy Protomartyr and Archdeacon Stephen"/>
+  		<chapter file="0803068" name="August 3: Sts. Isaacius, Dalmatus &amp; Faustus"/>
+		<chapter file="0803" name="August 3: St. Anthony the Roman"/>
+   		<chapter file="08043067" name="August 4: Seven Holy Youths of Ephesus"/>
+   		<chapter file="0805307" name="August 5: Forefeast of the Transfiguration &amp; Holy Martyr Eusygnius"/>
+		<chapter file="0806485" name="August 6: Holy Transfiguration of Our Lord"/>
+		<chapter file="0807232" name="August 7: Holy Martyred Monk Dometius"/>
+		<chapter file="0808173" name="August 8: St. Emilian the Confessor, Bishop of Cyzicus"/>
+		<chapter file="0808" name="August 8: Transfer of the Relics of Sts. Zosimas &amp; Sabbatius of Solovki"/>
+  		<chapter file="0809308" name="August 9: Holy Apostle Matthias"/>
+   		<chapter file="0810069" name="August 10: Holy Martyr &amp; Archdeacon Laurence"/>
+   		<chapter file="0811309" name="August 11: Holy Martyr &amp; Archdeacon Euplus"/>
+   		<chapter file="0812310" name="August 12: Martyrs Photius &amp; Anicetas and St. Maximus the Confessor" />
+		<chapter file="0813" name="August 13: Leave-taking of the Feast of the Transfiguration of the Lord"/>
+   		<chapter file="0813070" name="August 13: St. Tikhon, Bishop of Voronezh"/>
+    	<chapter file="0814233" name="August 14: Forefeast of the Dormition and Holy Prophet Micah"/>
+    	<chapter file="0815486" name="August 15: Dormition of the Most-Holy Theotokos"/>
+		<chapter file="0816" name="August 16: Transfer of the Image Not-Made-By-Hands of Our Lord from Edessa to Constantinople"/>
+    	<chapter file="0816071" name="August 16: All-Night Vigil for the Transfer of the Image Not-Made-By-Hands"/>
+    	<chapter file="0817072" name="August 17: Holy Martyr Myron"/>
+   		<chapter file="0818311" name="August 18: Holy Martyrs Florus &amp; Laurus"/>
+    	<chapter file="0819312" name="August 19: Holy Martyr Andrew the General"/>
+     	<chapter file="0820075" name="August 20: Holy Prophet Samuel"/>
+    	<chapter file="0821234" name="August 21: Holy Apostle Thaddaeus &amp; Holy Martyr Bassa &amp; Those with Her"/>
+   		<chapter file="0822170" name="August 22: Holy Martyr Agathonicus &amp; Those with Him and Holy Martyr Luppus"/>
+		<chapter file="0823" name="August 23: Leave-taking of the Dormition of the All-holy Theotokos"/>
+  		<chapter file="0824073" name="August 24: Hieromartyr Eutyches"/>
+		<chapter file="0824" name="August 24: Holy New-hieromartyr Maximus Sandovich, Protomartyr of the Lemko People"/>
+ 		<chapter file="0825313" name="August 25: Return of the Relics of the Holy Apostle Bartholomew &amp; Holy Apostle Titus"/>
+		<chapter file="0826076" name="August 26: Holy Martyrs Adrian and Natalia"/>
+		<chapter file="0826403" name="August 26: Meeting of the Vladimir Icon of the Theotokos"/>
+		<chapter file="0827078" name="August 27: St. Poemen the Great"/>
+		<chapter file="0828235" name="August 28: St. Moses the Black"/>
+   		<chapter file="0828488" name="August 28: Commemoratin of the Holy Fathers of the Kiev Far Caves"/>
+   		<chapter file="0829237" name="August 29: Beheading of St. John the Forerunner and Baptist"/>
+   		<chapter file="0830314" name="August 30: Holy Fathers Alexander, John and Paul the New, Patriarchs of Constantinople"/>
+   		<chapter file="0830404" name="August 30: Transfer of the Relics of St. Alexander Nevsky"/>
+   		<chapter file="0831079" name="August 31: Deposition of the Precious Cincture of the Theotokos"/>
+		<chapter file="0831" name="August 31: Our Father among the Saints Aidan, Bishop of Lindisfarne, Enlightener of Northumbria"/>
+	</manifest>
+</bookdata>
