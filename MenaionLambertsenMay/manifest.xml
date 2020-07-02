@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="1446933b-6f69-4679-a072-c6dc35d9a562"/>
+		<meta name="lang" content="en"/>
+		<meta name="title" content="Menaion, May"/>
+		<meta name="latin" content="MenaionLambertsenMay"/>
+		<meta name="publisher" content="Tr. by Isaac Lambertsen"/>
+		<meta name="year" content="2000"/>
+		<meta name="note" content="Not clear what the edition was"/>
+	</head>
+	<manifest>
+		<chapter file="0501288" name="May 1: Holy Prophet Jeremiah"/>
+  		<chapter file="0501364" name="May 1: Holy Queen Tamara of Georgia"/>
+		<chapter file="0501525" name="May 1: Holy Martyred Monks Euphemius, Ignatius &amp; Acacius"/>
+		<chapter file="0502289" name="May 2: St. Athanasius the Great, Patriarch of Alexandria"/>
+		<chapter file="0502526" name="May 2: Right-believing King Boris, Equal of the Apostles, Enlightener of the Bulgarians"/>
+   		<chapter file="0503458" name="May 3: Holy Martyrs Timothy &amp; Maura"/>
+		<chapter file="0503457" name="May 3: Venerable Father Theodosius, Abbot of the Monastery of the Caves"/>
+		<chapter file="0504365" name="May 4: Holy Martyred Nun Pelagia"/>
+		<chapter file="0505290" name="May 5: Holy &amp; Glorious Martyr Irene"/>
+		<chapter file="0506459" name="May 6: Holy &amp; Righteous Job the Much-suffering"/>
+		<chapter file="0507366" name="May 7: Commemoration of the Appearance of the Sign of the Precious Cross"/>
+ 		<chapter file="0507460" name="May 7: Venerable Father Nilus, Wonderworker of Sora"/>
+  		<chapter file="0508462" name="May 8: Holy &amp; All-praised Apostle &amp; Evangelist John the Theologian &amp; Venerable Father Arsenius"/>
+   		<chapter file="0509463" name="May 9: Holy Prophet Isaiah &amp; Holy Martyr Christopher"/>
+ 		<chapter file="050933" name="May 9: Translation of the Relics of St Nicholas from Myra to Bari in Italy"/>
+		<chapter file="0508" name="May 9: Apparition of the Holy Archangel Michael on Mount Garganus, in Apulia of Italy"/>
+   		<chapter file="0510291" name="May 10: Holy Apostle Simon the Zealot"/>
+    	<chapter file="0510464" name="May 10: Venerable Mother Isidora of Tabenna"/>
+		<chapter file="0511466" name="May 11: Commemoration of the Holy Hieromartyr Mocius"/>
+   		<chapter file="0511292" name="May 11: Holy Methodius &amp; Cyril, Equals of the Apostles"/>
+   		<chapter file="0511465" name="May 11: Holy Hieromartyr Joseph, Metropolitan of Astrakhan"/>
+  		<chapter file="0512367" name="May 12: Saints Epiphanius, Bishop of Cyprus, &amp; Germanus, Patriarch of Constantinople"/>
+   		<chapter file="0513467" name="May 13: Holy Martyr Glyceria"/>
+   		<chapter file="0514468" name="May 14: Holy Martyr Isidore of the Island of Chios"/>
+   		<chapter file="0515368" name="May 15: Venerable Father Pachomius the Great"/>
+   		<chapter file="0516293" name="May 16: Venerable Father Theodore the Sanctified"/>
+		<chapter file="0517369" name="May 17: Holy Apostle Andronicus"/>
+    	<chapter file="0518370" name="May 18: Holy Martyr Theodotus of Ancyra &amp; the Seven Holy Virgins"/>
+		<chapter file="0519371" name="May 19: Holy Hieromartyr Patrick of Prussa &amp; His Companions"/>
+    	<chapter file="0520469" name="May 20: Holy Martyr Thalalæus"/>
+   		<chapter file="0521470" name="May 21: Holy Equals of the Apostles Emperor Constantine &amp; Empress Helena"/>
+    	<chapter file="0522372" name="May 22: Holy Martyr Basiliscus"/>
+    	<chapter file="0523294" name="May 23: Venerable Father Michael the Confessor, Bishop of Synada"/>
+   		<chapter file="05252953" name="May 25: Commemoration of the Third Finding of the Precious Head of the Holy Prophet, Forerunner and Baptist John"/>
+    	<chapter file="052637470" name="May 26: Holy Apostle Carpus"/>
+     	<chapter file="0527471" name="May 27: Holy Hieromartyr Therapon"/>
+   		<chapter file="0527296" name="May 27: Righteous Confessor John the Russian"/>
+   		<chapter file="0528375" name="May 28: St. Nicetas, Bishop of Chalcedon, and His Brother, the Priest Ignatius"/>
+		<chapter file="0529376" name="May 29: Holy Martyred Virgin Theodosia"/>
+   		<chapter file="0530297" name="May 30: Venerable Father Isaacius of the Monastery of Dalmatus"/>
+   		<chapter file="0531377" name="May 31: Holy Martyr Hermias"/>
+	</manifest>
+</bookdata>
