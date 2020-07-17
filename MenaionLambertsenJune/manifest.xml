@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="10a476d0-cad8-4a9e-a590-d26699ce0127"/>
+		<meta name="lang" content="en"/>
+		<meta name="title" content="Menaion, June"/>
+		<meta name="latin" content="MenaionLambertsenJune"/>
+		<meta name="publisher" content="Tr. by Isaac Lambertsen"/>
+		<meta name="year" content="2000"/>
+		<meta name="note" content="Not clear what the edition was"/>
+	</head>
+	<manifest>
+		<chapter file="0000" name="Second Sunday after Pentecost: All Saints of Russia"/>
+  		<chapter file="0007" name="Second Sunday after Pentecost: God-bearing Fathers on Mount Athos"/>
+    	<chapter file="0009298" name="Third Sunday after Pentecost: New Martyrs of Christ, Who Have Suffered since the Fall of Constantinople"/>
+   		<chapter file="0601315" name="June 1: Holy Martyr Justin the Philosopher"/>
+   		<chapter file="0602316" name="June 2: St. Nicephorus the Confessor, Patriarch of Constantinople"/>
+		<chapter file="0602" name="June 2: Holy Greatmartyr John the New"/>
+  		<chapter file="0603378" name="June 3: Holy Martyr Lucillian"/>
+   		<chapter file="0604379" name="June 4: St. Metrophanes, Patriarch of Constantinople"/>
+   		<chapter file="0605299" name="June 5: Hieromartyr Dorotheus, Bishop of Tyre"/>
+		<chapter file="0606" name="June 6: St. Bessarion the Wonderworker &amp; St. Hilarion the New"/>
+   		<chapter file="0607" name="June 7: Hieromartyr Theodotus, Bishop of Ancyra"/>
+		<chapter file="060701" name="June 7: Holy Martyrs Cyriaca, Valeria &amp; Maria"/>
+		<chapter file="068" name="June 8: Holy Martyr Theodore the General"/>
+   		<chapter file="0609380" name="June 9: Saint Cyril, Archbishop of Alexandria"/>
+   		<chapter file="0610381" name="June 10: Hieromartyr Timothy, Bishop of Prussa"/>
+    	<chapter file="0611300" name="June 11: Holy Apostles Bartholemew &amp; Barnabas"/>
+		<chapter file="0611123" name="June 11: Commemoration of the Wonder-working Icon of the All-holy Theotokos, Known as &quot;It is truly meet&quot;"/>
+		<chapter file="0611" name="June 11: Holy Protomartyrs of China, Slain during the Boxer Rebellion"/>
+		<chapter file="0612473" name="June 12: Venerable Fathers Onuphrius &amp; Peter the Athonite"/>
+		<chapter file="0612" name="June 12: Venerable John, Heraclemon, Andrew and Theophilus of Egypt"/>
+		<chapter file="0613" name="June 13: Holy Martyr Aquilina &amp; Holy Hierarch Triphyllius, Bishop of Leucosia in Cyprus"/>
+    	<chapter file="0614474" name="June 14: Holy Prophet Elisha &amp; St. Methodius, Patriarch of Constantinople"/>
+		<chapter file="0615" name="June 15: Holy Prophet Amos"/>
+   		<chapter file="0615475" name="June 15: St. Jonah, Metropolitan of Moscow &amp; All Russia"/>
+    	<chapter file="0615540" name="June 15: St. Augustine, Bishop of Hippo"/>
+    	<chapter file="0615550" name="June 15: St. Jerome the Blessed, of Stridon"/>
+   		<chapter file="0616476" name="June 16: Hieromartyr &amp; Wonderworker Tychon of Amathus"/>
+		<chapter file="0616" name="June 16: St. Tikhon, Wonderworker of Kaluga"/>
+    	<chapter file="0617382" name="June 17: Holy Martyrs Manuel, Sabel &amp; Ismael"/>
+     	<chapter file="0618301" name="June 18: Holy Martyr Leontius"/>
+   		<chapter file="0619302" name="June 19: Holy Apostle Jude, the Brother of the Lord"/>
+ 		<chapter file="0619" name="June 19: St. John, Archbishop of Shanghai &amp; San Francisco"/>
+  		<chapter file="0620" name="June 20: Holy Hieromartyr Methodius, Bishop of Patara"/>
+   		<chapter file="0621477" name="June 21: Holy Martyr Julian of Tarsus"/>
+   		<chapter file="0622" name="June 22: St. Eusebius, Bishop of Samosata"/>
+   		<chapter file="0623478" name="June 23: Holy Martyr Agrippina"/>
+		<chapter file="0623403" name="June 23: Meeting of the Vladimir Icon"/>
+ 		<chapter file="0624" name="June 24: Nativity of the Honorable &amp; Glorious Prophet &amp; Forerunner John the Baptist"/>
+   		<chapter file="0625303" name="June 25: Holy Martyred Nun Febronia"/>
+		<chapter file="0625" name="June 25: Righteous Prince Peter &amp; Princess Febronia, Wonderworkers of Murom"/>
+   		<chapter file="0626345" name="June 26: Appearance of the Tikhvin Icon"/>
+   		<chapter file="0627" name="June 27: St. Sampson the Hospitable"/>
+		<chapter file="0628480" name="June 28: Translation of the Relics of the Holy Wonderworkers Cyrus &amp; John"/>
+   		<chapter file="0629481" name="June 29: Holy, Glorious, All-praised Apostles Peter &amp; Paul"/>
+   		<chapter file="063030412" name="June 30: Synaxis of the Twelve Holy, Glorious &amp; All-praised Apostles"/>
+	</manifest>
+</bookdata>
