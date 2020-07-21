@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="e08bf802-f0d7-41bc-941e-782a5719c501"/>
+		<meta name="lang" content="en"/>
+		<meta name="title" content="Menaion, November"/>
+		<meta name="latin" content="MenaionLambertsenNovember"/>
+		<meta name="publisher" content="Tr. by Isaac Lambertsen"/>
+		<meta name="year" content="2000"/>
+		<meta name="note" content="Not clear what the edition was"/>
+	</head>
+	<manifest>
+  		<chapter file="1101324" name="November 1: Holy Cosmas &amp; Damian, Wonder-Workers &amp; Unmercenary Physicians In Asia"/>
+   		<chapter file="1101542" name="Sunday After November 1: Synaxis Of All The Holy Unmercenary Physicians"/>
+		<chapter file="1102" name="November 2: Holy Martyrs Acindynus, Pegasius, Aphthonius, Elpidephorus &amp; Anempodistus"/>
+  		<chapter file="1103" name="November 3: Martyrs Acepsimus the Bishop, etc. &amp; Dedication of the Church of the Holy Great Martyr George"/>
+   		<chapter file="1104325" name="November 4: Venerable Father Joannicius The Great &amp; Holy Hieromartyr Nicander"/>
+		<chapter file="1105" name="November 5: Commemoration of the Holy Martyrs Galacteon and Epistemis"/>
+		<chapter file="1106" name="November 6: St. Paul The Confessor, Archbishop Of Constantinople"/>
+		<chapter file="1107" name="November 7: 33 Martyrs In Melitene and venerable father Lazarus the Wonderworker"/>
+		<chapter file="1108" name="November 8: Synaxis of the Archangel Michael"/>
+   		<chapter file="1109277" name="November 9: Holy Martyrs Onesiphorus and Porphyrius of Ephesus"/>
+		<chapter file="1109" name="November 9: Wonder-working Athonite Icon Known as &quot;She Who is Quick to Hear&quot;"/>
+		<chapter file="1110" name="November 10: Holy Apostles Erastus, Olympus, Rodion, and those with them"/>
+   		<chapter file="1111278" name="November 11: Holy Martyrs Minas, Victor &amp; Vincent"/>
+		<chapter file="1112179" name="November 12: St. John, Patriarch Of Alexandria, The Almsgiver &amp; Venerable Father Nilus"/>
+		<chapter file="1113" name="November 13: St. John Chrysostom, Archbishop Of Constantinople"/>
+		<chapter file="1114" name="November 14: Holy and Glorious Apostle Philip"/>
+    	<chapter file="1114543" name="November 14: St. Gregory Palamas, Archbishop of Thessalonica"/>
+		<chapter file="1115326" name="November 15: Holy Martyrs &amp; Confessors Gurias, Samonas &amp; Habib"/>
+		<chapter file="1116" name="November 16: Holy Apostle &amp; Evangelist Matthew"/>
+ 		<chapter file="1117" name="November 17: Gregory the Wonderworker, Bishop of Neocæsarea"/>
+    	<chapter file="1118329" name="November 18: Holy Martyrs Plato &amp; Romanus"/>
+  		<chapter file="1119" name="November 19: Prophet Obadiah &amp; Holy Martyr Barlaam of Cæsarea in Cappadocia"/>
+		<chapter file="1120" name="November 20: Forefeast Of The Entrance Of The All-Holy Theotokos Into The Temple"/>
+   		<chapter file="1121516" name="November 21: Entry Of Our All-Holy Mistress, The Theotokos &amp; Ever-Virgin Mary, Into The Temple"/>
+    	<chapter file="1122330" name="November 22: Commemoration Of The Holy Apostle Philemon"/>
+		<chapter file="1123" name="November 23: Holy Hierarch and Wonderworker Metrophanes (in Schema Macarius), First Bishop of Voronezh"/>
+    	<chapter file="1123331" name="November 23: Our Fathers Among The Saints, Amphilochius, Bishop Of Iconium"/>
+   		<chapter file="1124" name="November 24: Holy Great Martyr Catherine of Alexandria &amp; Holy Great Martyr Mercurius of Cæsarea in Cappadocia"/>
+   		<chapter file="1125332" name="November 25: Apodosis Of The Entry Of The Theotokos Into The Temple"/>
+    	<chapter file="1125528" name="November 25: Holy Equal of the Apostles Clement, Archbishop of Okhrid, Enlightener of the Slavs &amp; Wonderworker of Bulgaria"/>
+		<chapter file="1126" name="November 26: Venerable Father Alypius the Stylite of Adrianopolis"/>
+		<chapter file="112623" name="November 26: Saint Innocent, Bishop of Irkutsk, the Wonderworker"/>
+    	<chapter file="1127" name="November 27: Holy Greatmartyr James The Persian"/>
+		<chapter file="112734" name="November 27: Finding of the Wonder-working Icon of the Most Holy Theotokos Known as the Kursk-Root Icon of the Sign"/>
+   		<chapter file="1128" name="November 28: Holy Venerable-Martyr Stephen the New &amp; Holy Martyr Irenarchus"/>
+   		<chapter file="1129333" name="November 29: Holy Martyr Paramon &amp; Venerable Acacius"/>
+     	<chapter file="1130114" name="November 30: Holy And All-Praised Apostle Andrew, the First-Called"/>
+	</manifest>
+</bookdata>
