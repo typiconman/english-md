@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="b160d142-8872-4337-b5de-73d467bcecd3"/>
+		<meta name="lang" content="en"/>
+		<meta name="title" content="Menaion, December"/>
+		<meta name="latin" content="MenaionLambertsenDecember"/>
+		<meta name="publisher" content="Tr. by Isaac Lambertsen"/>
+		<meta name="year" content="2000"/>
+		<meta name="note" content="Not clear what the edition was"/>
+	</head>
+	<manifest>
+ 		<chapter file="1201327" name="December 1: Holy Prophet Nahum"/>
+  		<chapter file="1201" name="December 1: St. Philaret the Merciful of Amnia in Asia Minor"/>
+    	<chapter file="1202334" name="December 2: Holy Prophet Habbakuk"/>
+   		<chapter file="1202" name="December 2: Venerable John, Heraclemon, Andrew and Theophilus of Egypt"/>
+		<chapter file="1203" name="December 3: Holy Prophet Zephaniah"/>
+  		<chapter file="1204" name="December 4: Holy Greatmartyr Barbara &amp; St. John Of Damascus"/>
+   		<chapter file="1205" name="December 5: St. Sabbas the Sanctified"/>
+  		<chapter file="1206423" name="December 6: Our Father Among The Saints Nicholas, Archbishop Of Myra In Lycia"/>
+		<chapter file="1207" name="December 7: St. Ambrose, Bishop of Milan"/>
+		<chapter file="1208" name="December 8: St. Patapius of Thebes"/>
+		<chapter file="1209263" name="December 9: Conception Of The All-Holy Theotokos By Saint Anna"/>
+   		<chapter file="1209456" name="December 9: Commemoration of the Miraculous Icon of the Mother of God Known as &quot;Unexpected Joy&quot;"/>
+		<chapter file="1210" name="December 10: Holy Martyrs Menas, Hermogenes and Eugraphus of Alexandria"/>
+    	<chapter file="1211424" name="December 11: Holy Martyr Myrax"/>
+		<chapter file="1211" name="December 11: St. Daniel the Stylite of Constantinople"/>
+		<chapter file="121144" name="Sunday of the Holy Forefathers"/>
+		<chapter file="121212" name="December 12: Venerable Father Spyridon the Wonderworker, Bishop of Tremithus"/>
+   		<chapter file="1212" name="December 12: St. Herman, Wonderworker Of Alaska"/>
+		<chapter file="1214428" name="December 14: Holy Martyrs Thyrsus, Leucius, Philemon &amp; Those With Them"/>
+    	<chapter file="1215429" name="December 15: Holy Hieromartyr Eleutherius"/>
+   		<chapter file="1215498" name="December 15: Our Venerable Father Tryphon Of Pechenga"/>
+   		<chapter file="1215544" name="December 15: Holy Hierarch Stephen the Confessor, Archbishop of Sougdaia"/>
+    	<chapter file="1216430" name="December 16: Holy Prophet Haggai"/>
+		<chapter file="1216" name="December 16: Blessed Empress Theophania"/>
+     	<chapter file="12173283" name="December 17: Commemoration Of The Holy Prophet Daniel &amp; Of The Three Holy Youths"/>
+		<chapter file="1218545" name="December 18: Our Father Among the Saints Modestus, Patriarch of Jerusalem"/>
+		<chapter file="1218" name="Sunday before the Nativity of Christ: Commemoration Of The Holy Fathers"/>
+		<chapter file="1219432" name="December 19: Holy Martyr Boniface"/>
+   		<chapter file="1220" name="December 20: Forefeast Of The Nativity of Our Lord, God &amp; Savior Jesus Christ &amp; St. John Of Kronstadt"/>
+    	<chapter file="1220433" name="December 20: Forefeast Of The Nativity &amp; Commemoration Of The Holy Hieromartyr Ignatius Of Antioch, The God-Bearer"/>
+		<chapter file="1221434" name="December 21: Holy Martyr Juliana Of Nicomedia"/>
+   		<chapter file="1221547" name="December 21: Our Father Among the Saints Peter, Metropolitan of Kiev &amp; All Russia"/>
+		<chapter file="1222" name="December 22: Greatmartyr Anastasia, The Deliverer From Bondage"/>
+     	<chapter file="122343510" name="December 23: Commemoration Of The 10 Holy Martyrs Of Crete"/>
+   		<chapter file="1223548" name="December 23: Holy Nahum, Equal of the Apostles &amp; Wonder-worker of Okhrid"/>
+     	<chapter file="1224436" name="December 24: Holy Venerable-Martyr Eugenia"/>
+     	<chapter file="1224499" name="December 24: The Order Of The Hours Chanted On The Eve Of The Nativity Of Christ"/>
+     	<chapter file="1225500" name="December 25: Nativity, According To The Flesh, of Our Lord, God &amp; Savior Jesus Christ"/>
+     	<chapter file="1226335" name="December 26: Synaxis Of The All-Holy Theotokos"/>
+		<chapter file="1226" name="Sunday after the Nativity of Christ"/>
+		<chapter file="1227" name="December 27: Commemoration of the Holy Apostle, Protomartyr and Archdeacon Stephen"/>
+     	<chapter file="1228336" name="December 28: Commemoration Of The Twenty Thousand Martyrs"/>
+     	<chapter file="1229262" name="December 29: Commemoration Of The Fourteen Thousand Infants Slain For Christ’s Sake In Bethlehem"/>
+     	<chapter file="1230337" name="December 30: Commemoration Of The Holy Martyr Anysia &amp; The Venerable Zoticus"/>
+    	<chapter file="1231" name="December 31: Apodosis of the Nativity of Christ"/>
+	</manifest>
+</bookdata>
