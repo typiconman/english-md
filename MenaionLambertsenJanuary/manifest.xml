@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="c5ef6ed9-e777-456a-94f1-1e0442454c38"/>
+		<meta name="lang" content="en"/>
+		<meta name="title" content="Menaion, January"/>
+		<meta name="latin" content="MenaionLambertsenJanuary"/>
+		<meta name="publisher" content="SJKP"/>
+		<meta name="year" content="2000"/>
+		<meta name="note" content="Not clear what the edition was"/>
+	</head>
+	<manifest>
+		<chapter file="0101" name="Saturday before Theophany"/>
+		<chapter file="0101501" name="Circumcision of Our Lord Jesus Christ &amp; Saint Basil The Great, Archbishop Of Cæsaria In Cappadocia"/>
+		<chapter file="0102503" name="St. Sylvester, Pope of Rome"/>
+		<chapter file="0102" name="St. Seraphim, Wonderworker of Sarov"/>
+		<chapter file="0102502" name="Holy Righteous Juliana Of Lazarevo"/>
+		<chapter file="0103437" name="Holy Prophet Malachi &amp; The Holy Martyr Gordius"/>
+		<chapter file="010470" name="Synaxis of the Seventy Apostles"/>
+		<chapter file="0105425" name="Holy Martyrs Theopemptus &amp; Theonas"/>
+		<chapter file="0105504" name="Hours Chanted on the Eve of the Theophany of the Lord"/>
+		<chapter file="010650504" name="Holy Theophany of our Lord"/>
+		<chapter file="0107259" name="Holy, Glorious Prophet, Forerunner John the Baptist"/>
+		<chapter file="0108260" name="Our Venerable Father George the Khozebite &amp; Our Venerable Mother Domnica"/>
+		<chapter file="0108507" name="Holy Hieromartyr Isidore &amp; the 72 Martyred With Him For Orthodoxy, In Yuriev Of Estonia"/>
+		<chapter file="0109" name="Holy Martyr Polyeuctus of Melitene in Armenia"/>
+		<chapter file="0109508" name="Saint Philip, Metropolitan of Moscow &amp; All Russia, the New Confessor"/>
+		<chapter file="0110341" name="Saint Gregory, Bishop Of Nyssa"/>
+		<chapter file="0110" name="Saint Theophanes, Recluse of Vyshensk"/>
+		<chapter file="0111" name="St. Theodosius the Cœnobiarch"/>
+		<chapter file="011234204" name="Holy Martyr Tatiana"/>
+		<chapter file="0112509" name="Saints Savva, First Archbishop &amp; Teacher Of The Serbs"/>
+		<chapter file="0113343" name="Martyrs Hermylus &amp; Stratonicus"/>
+		<chapter file="0114344" name="Apodosis Of Holy Theophany"/>
+		<chapter file="0115257" name="Our Venerable Fathers Paul of Thebes &amp; John the Hut-dweller"/>
+		<chapter file="0116" name="Precious Chains Of The Holy Pre-Eminent Apostle Peter"/>
+		<chapter file="0117345" name="Venerable &amp; God-Bearing Father Anthony The Great"/>
+		<chapter file="0118264" name="Saints Athanasius &amp; Cyril, Archbishops of Alexandria"/>
+		<chapter file="0119346" name="Our Venerable Father Macarius the Egyptian"/>
+		<chapter file="0120347" name="Our Venerable &amp; God-bearing Father Euthymius the Great"/>
+		<chapter file="0121258" name="Venerable Father Maximus the Confessor &amp; of the Holy Martyr Neophytus"/>
+		<chapter file="0121" name="Our Venerable Father Maximus the Greek"/>
+		<chapter file="0121348" name="Holy Martyr Agnes of Rome"/>
+		<chapter file="0122" name="Holy Martyr Alexander of Munich"/>
+		<chapter file="01223" name="Sunday of the New-Martyrs and Confessors of Russia"/>
+		<chapter file="0122349" name="Holy Apostle Timothy &amp; Venerable Martyr Anastasius the Persian"/>
+		<chapter file="0123350" name="Holy Hieromartyr Clement, Bishop of Ancyra"/>
+		<chapter file="0124351" name="Venerable Mother Xenia"/>
+		<chapter file="0124352" name="Holy Xenia, Blessed in Christ, the Homeless Wanderer of Saint Petersburg"/>
+		<chapter file="0125265" name="St. Gregory the Theologian, Archbishop of Constantinople"/>
+		<chapter file="0126" name="Our Venerable Father Xenophon of Constantinople, Mary, his wife, and their sons, Arcadius and John"/>
+		<chapter file="0127" name="Translation of the Relics of Our Father among the Saints, John Chrysostom, Archbishop of Constantinople"/>
+		<chapter file="0128353" name="Our Venerable Father Ephraim the Syrian"/>
+		<chapter file="0128576" name="Our Father among the Saints Isaac the Syrian, Bishop of Nineveh"/>
+		<chapter file="0129266" name="Translation of the Relics of the Holy Hieromartyr Ignatius the God-bearer"/>
+		<chapter file="0130354" name="Commemoration of Our Holy Fathers, the Great Hierarchs Basil the Great, Gregory the Theologian &amp; John Chrysostom"/>
+		<chapter file="0131267" name="Holy Wonder-workers &amp; Unmercenary Physicians Cyrus &amp; John"/>
+	</manifest>
+</bookdata>
