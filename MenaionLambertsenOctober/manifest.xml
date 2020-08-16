@@ -11,54 +11,54 @@
 		<meta name="note" content="Not clear what the edition was"/>
 	</head>
 	<manifest>
-		<chapter file="1001339" name="Protection of the Theotokos"/>
-		<chapter file="1001413" name="Holy Apostle Ananias Of The Seventy &amp; Our Venerable Father Romanus The Melodist"/>
-		<chapter file="1002" name="Holy Hieromartyr Cyprian &amp; The Martyr Justina"/>
-		<chapter file="1002340" name="Holy &amp; Blessed Andrew, Fool For Christ’s Sake"/>
-		<chapter file="1003" name="Holy Hieromartyr Dionysius the Areopagite"/>
-		<chapter file="1004414" name="Holy Hieromartyr Hierotheus, Bishop Of Athens"/>
-		<chapter file="1004" name="Venerable Paul the Simple"/>
-		<chapter file="1005415" name="Holy Martyr Charitina"/>
-		<chapter file="1005" name="Holy Hierarchs Peter, Alexis, Jonah, Philip, Hermogenes &amp; Tikhon Metropolitans of Moscow"/>
-		<chapter file="1006" name="Holy and Glorious Apostle Thomas"/>
-		<chapter file="1007261" name="Holy Martyrs Sergius &amp; Bacchus"/>
-		<chapter file="1007" name="Saint Jonah, Bishop of Hankow"/>
-		<chapter file="1008416" name="Venerable Mother Pelagia"/>
-		<chapter file="1008" name="Holy And Venerable Thaïs"/>
-		<chapter file="10087" name="Commemoration of the Holy Fathers of the Seventh Ecumenical Council"/>
-		<chapter file="1009417" name="Holy Apostle James, the Son of Alphæus"/>
-		<chapter file="1010" name="Holy Martyrs Eulampius &amp; Eulampia"/>
-		<chapter file="1010418" name="Synaxis of the 14 Venerable Fathers of Optina"/>
-		<chapter file="1011" name="Holy Apostle Philip of the Seventy, One of the Seven Deacons"/>
-		<chapter file="1012420" name="Holy Martyrs Probus, Tarachus &amp; Andronicus"/>
-		<chapter file="1012532" name="Our Father Among the Saints Martin, Bishop of Tours"/>
-		<chapter file="1013" name="Holy Martyrs Carpus &amp; Papylas"/>
-		<chapter file="1014421" name="Holy Martyrs Nazarius, Gervase, Protase &amp; Celsius"/>
-		<chapter file="1015" name="Venerable Father Euthymius the New and of the Holy Venerable Martyr Lucian, Presbyter of Antioch the Great"/>
-		<chapter file="1016" name="Martyr Longinus, the Centurion"/>
-		<chapter file="1017317" name="Holy Prophet Hosea &amp; Venerable Martyr Andrew of Crete"/>
-		<chapter file="10182345" name="Holy Apostle &amp; Evangelist Luke"/>
-		<chapter file="1018" name="Saint Peter, Metropolitan Of Montenegro, the Wonderworker"/>
-		<chapter file="1019318" name="Holy Prophet Joel &amp; Holy Martyr Varus"/>
-		<chapter file="1019422" name="Holy &amp; Venerable Father John Of Ryla"/>
-		<chapter file="1019" name="St. John Of Kronstadt, the Wonderworker"/>
-		<chapter file="1020" name="Holy Great Martyr Artemius"/>
-		<chapter file="1021319" name="Venerable Father Hilarion the Great"/>
-		<chapter file="10223207" name="Holy Wonderworker Abercius, Bishop Of Hierapolis, Equal Of The Apostles"/>
-		<chapter file="1022" name="Commemoration of the Kazan Icon of the Most Holy Theotokos"/>
-		<chapter file="1023" name="Holy Apostle James, the Brother of the Lord"/>
-		<chapter file="1024" name="Holy Martyr Arethas &amp; Those with Him"/>
-		<chapter file="1024567" name="Icon of the Most Holy Theotokos &quot;The Joy of All Who Sorrow&quot;"/>
-		<chapter file="1025321" name="Holy Martyrs Marcian &amp; Martyrius, the Notaries"/>
-		<chapter file="1025514" name="Holy &amp; Righteous Tabitha"/>
-		<chapter file="1026" name="Holy Greatmartyr Demetrius of Thessalonica &amp; Commemoration of the Great Earthquake at Constantinople in 740 AD"/>
-		<chapter file="1027" name="Holy Martyr Nestor of Thessalonica"/>
-		<chapter file="1027541" name="Venerable Father Nestor the Chronicler, of the Caves of Kiev"/>
-		<chapter file="1028323" name="Holy Martyrs Terence &amp; Neonilla"/>
-		<chapter file="1028322" name="Holy Martyr Parasceva"/>
-		<chapter file="1028193" name="Venerable Father Job, Abbot and Wonderworker of Pochaev"/>
-		<chapter file="1029" name="Venerable Martyr Anastasia the Roman"/>
-		<chapter file="1030" name="Holy Hieromartyr Zenobius &amp; His Sister Zenobia"/>
-		<chapter file="1031" name="Holy Apostles Stachys, Amplius &amp; Those With Them"/>
+		<chapter file="1001339" name="October 1: Protection of the Theotokos"/>
+		<chapter file="1001413" name="October 1: Holy Apostle Ananias Of The Seventy &amp; Our Venerable Father Romanus The Melodist"/>
+		<chapter file="1002" name="October 2: Holy Hieromartyr Cyprian &amp; The Martyr Justina"/>
+		<chapter file="1002340" name="October 2: Holy &amp; Blessed Andrew, Fool For Christ’s Sake"/>
+		<chapter file="1003" name="October 3: Holy Hieromartyr Dionysius the Areopagite"/>
+		<chapter file="1004414" name="October 4: Holy Hieromartyr Hierotheus, Bishop Of Athens"/>
+		<chapter file="1004" name="October 4: Venerable Paul the Simple"/>
+		<chapter file="1005415" name="October 5: Holy Martyr Charitina"/>
+		<chapter file="1005" name="October 5: Holy Hierarchs Peter, Alexis, Jonah, Philip, Hermogenes &amp; Tikhon Metropolitans of Moscow"/>
+		<chapter file="1006" name="October 6: Holy and Glorious Apostle Thomas"/>
+		<chapter file="1007261" name="October 7: Holy Martyrs Sergius &amp; Bacchus"/>
+		<chapter file="1007" name="October 7: Saint Jonah, Bishop of Hankow"/>
+		<chapter file="1008416" name="October 8: Venerable Mother Pelagia"/>
+		<chapter file="1008" name="October 8: Holy And Venerable Thaïs"/>
+		<chapter file="10087" name="October 8: Commemoration of the Holy Fathers of the Seventh Ecumenical Council"/>
+		<chapter file="1009417" name="October 9: Holy Apostle James, the Son of Alphæus"/>
+		<chapter file="1010" name="October 10: Holy Martyrs Eulampius &amp; Eulampia"/>
+		<chapter file="1010418" name="October 10: Synaxis of the 14 Venerable Fathers of Optina"/>
+		<chapter file="1011" name="October 11: Holy Apostle Philip of the Seventy, One of the Seven Deacons"/>
+		<chapter file="1012420" name="October 12: Holy Martyrs Probus, Tarachus &amp; Andronicus"/>
+		<chapter file="1012532" name="October 12: Our Father Among the Saints Martin, Bishop of Tours"/>
+		<chapter file="1013" name="October 13: Holy Martyrs Carpus &amp; Papylas"/>
+		<chapter file="1014421" name="October 14: Holy Martyrs Nazarius, Gervase, Protase &amp; Celsius"/>
+		<chapter file="1015" name="October 15: Venerable Father Euthymius the New and of the Holy Venerable Martyr Lucian, Presbyter of Antioch the Great"/>
+		<chapter file="1016" name="October 16: Martyr Longinus, the Centurion"/>
+		<chapter file="1017317" name="October 17: Holy Prophet Hosea &amp; Venerable Martyr Andrew of Crete"/>
+		<chapter file="10182345" name="October 18: Holy Apostle &amp; Evangelist Luke"/>
+		<chapter file="1018" name="October 18: Saint Peter, Metropolitan Of Montenegro, the Wonderworker"/>
+		<chapter file="1019318" name="October 19: Holy Prophet Joel &amp; Holy Martyr Varus"/>
+		<chapter file="1019422" name="October 19: Holy &amp; Venerable Father John Of Ryla"/>
+		<chapter file="1019" name="October 19: St. John Of Kronstadt, the Wonderworker"/>
+		<chapter file="1020" name="October 20: Holy Great Martyr Artemius"/>
+		<chapter file="1021319" name="October 21: Venerable Father Hilarion the Great"/>
+		<chapter file="10223207" name="October 22: Holy Wonderworker Abercius, Bishop Of Hierapolis, Equal Of The Apostles"/>
+		<chapter file="1022" name="October 22: Commemoration of the Kazan Icon of the Most Holy Theotokos"/>
+		<chapter file="1023" name="October 23: Holy Apostle James, the Brother of the Lord"/>
+		<chapter file="1024" name="October 24: Holy Martyr Arethas &amp; Those with Him"/>
+		<chapter file="1024567" name="October 24: Icon of the Most Holy Theotokos &quot;The Joy of All Who Sorrow&quot;"/>
+		<chapter file="1025321" name="October 25: Holy Martyrs Marcian &amp; Martyrius, the Notaries"/>
+		<chapter file="1025514" name="October 25: Holy &amp; Righteous Tabitha"/>
+		<chapter file="1026" name="October 26: Holy Greatmartyr Demetrius of Thessalonica &amp; Commemoration of the Great Earthquake at Constantinople in 740 AD"/>
+		<chapter file="1027" name="October 27: Holy Martyr Nestor of Thessalonica"/>
+		<chapter file="1027541" name="October 27: Venerable Father Nestor the Chronicler, of the Caves of Kiev"/>
+		<chapter file="1028323" name="October 28: Holy Martyrs Terence &amp; Neonilla"/>
+		<chapter file="1028322" name="October 28: Holy Martyr Parasceva"/>
+		<chapter file="1028193" name="October 28: Venerable Father Job, Abbot and Wonderworker of Pochaev"/>
+		<chapter file="1029" name="October 29: Venerable Martyr Anastasia the Roman"/>
+		<chapter file="1030" name="October 30: Holy Hieromartyr Zenobius &amp; His Sister Zenobia"/>
+		<chapter file="1031" name="October 31: Holy Apostles Stachys, Amplius &amp; Those With Them"/>
 	</manifest>
 </bookdata>

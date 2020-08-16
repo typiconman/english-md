@@ -12,49 +12,49 @@
 	</head>
 	<manifest>
 		<chapter file="0101" name="Saturday before Theophany"/>
-		<chapter file="0101501" name="Circumcision of Our Lord Jesus Christ &amp; Saint Basil The Great, Archbishop Of Cæsaria In Cappadocia"/>
-		<chapter file="0102503" name="St. Sylvester, Pope of Rome"/>
-		<chapter file="0102" name="St. Seraphim, Wonderworker of Sarov"/>
-		<chapter file="0102502" name="Holy Righteous Juliana Of Lazarevo"/>
-		<chapter file="0103437" name="Holy Prophet Malachi &amp; The Holy Martyr Gordius"/>
-		<chapter file="010470" name="Synaxis of the Seventy Apostles"/>
-		<chapter file="0105425" name="Holy Martyrs Theopemptus &amp; Theonas"/>
-		<chapter file="0105504" name="Hours Chanted on the Eve of the Theophany of the Lord"/>
-		<chapter file="010650504" name="Holy Theophany of our Lord"/>
-		<chapter file="0107259" name="Holy, Glorious Prophet, Forerunner John the Baptist"/>
-		<chapter file="0108260" name="Our Venerable Father George the Khozebite &amp; Our Venerable Mother Domnica"/>
-		<chapter file="0108507" name="Holy Hieromartyr Isidore &amp; the 72 Martyred With Him For Orthodoxy, In Yuriev Of Estonia"/>
-		<chapter file="0109" name="Holy Martyr Polyeuctus of Melitene in Armenia"/>
-		<chapter file="0109508" name="Saint Philip, Metropolitan of Moscow &amp; All Russia, the New Confessor"/>
-		<chapter file="0110341" name="Saint Gregory, Bishop Of Nyssa"/>
-		<chapter file="0110" name="Saint Theophanes, Recluse of Vyshensk"/>
-		<chapter file="0111" name="St. Theodosius the Cœnobiarch"/>
-		<chapter file="011234204" name="Holy Martyr Tatiana"/>
-		<chapter file="0112509" name="Saints Savva, First Archbishop &amp; Teacher Of The Serbs"/>
-		<chapter file="0113343" name="Martyrs Hermylus &amp; Stratonicus"/>
-		<chapter file="0114344" name="Apodosis Of Holy Theophany"/>
-		<chapter file="0115257" name="Our Venerable Fathers Paul of Thebes &amp; John the Hut-dweller"/>
-		<chapter file="0116" name="Precious Chains Of The Holy Pre-Eminent Apostle Peter"/>
-		<chapter file="0117345" name="Venerable &amp; God-Bearing Father Anthony The Great"/>
-		<chapter file="0118264" name="Saints Athanasius &amp; Cyril, Archbishops of Alexandria"/>
-		<chapter file="0119346" name="Our Venerable Father Macarius the Egyptian"/>
-		<chapter file="0120347" name="Our Venerable &amp; God-bearing Father Euthymius the Great"/>
-		<chapter file="0121258" name="Venerable Father Maximus the Confessor &amp; of the Holy Martyr Neophytus"/>
-		<chapter file="0121" name="Our Venerable Father Maximus the Greek"/>
-		<chapter file="0121348" name="Holy Martyr Agnes of Rome"/>
-		<chapter file="0122" name="Holy Martyr Alexander of Munich"/>
+		<chapter file="0101501" name="January 1: Circumcision of Our Lord Jesus Christ &amp; Saint Basil The Great, Archbishop Of Cæsaria In Cappadocia"/>
+		<chapter file="0102503" name="January 2: St. Sylvester, Pope of Rome"/>
+		<chapter file="0102" name="January 2: St. Seraphim, Wonderworker of Sarov"/>
+		<chapter file="0102502" name="January 2: Holy Righteous Juliana Of Lazarevo"/>
+		<chapter file="0103437" name="January 3: Holy Prophet Malachi &amp; The Holy Martyr Gordius"/>
+		<chapter file="010470" name="January 4: Synaxis of the Seventy Apostles"/>
+		<chapter file="0105425" name="January 5: Holy Martyrs Theopemptus &amp; Theonas"/>
+		<chapter file="0105504" name="January 5: Hours Chanted on the Eve of the Theophany of the Lord"/>
+		<chapter file="010650504" name="January 6: Holy Theophany of our Lord"/>
+		<chapter file="0107259" name="January 7: Holy, Glorious Prophet, Forerunner John the Baptist"/>
+		<chapter file="0108260" name="January 8: Our Venerable Father George the Khozebite &amp; Our Venerable Mother Domnica"/>
+		<chapter file="0108507" name="January 8: Holy Hieromartyr Isidore &amp; the 72 Martyred With Him For Orthodoxy, In Yuriev Of Estonia"/>
+		<chapter file="0109" name="January 9: Holy Martyr Polyeuctus of Melitene in Armenia"/>
+		<chapter file="0109508" name="January 9: Saint Philip, Metropolitan of Moscow &amp; All Russia, the New Confessor"/>
+		<chapter file="0110341" name="January 10: Saint Gregory, Bishop Of Nyssa"/>
+		<chapter file="0110" name="January 10: Saint Theophanes, Recluse of Vyshensk"/>
+		<chapter file="0111" name="January 11: St. Theodosius the Cœnobiarch"/>
+		<chapter file="011234204" name="January 12: Holy Martyr Tatiana"/>
+		<chapter file="0112509" name="January 12: Saints Savva, First Archbishop &amp; Teacher Of The Serbs"/>
+		<chapter file="0113343" name="January 13: Martyrs Hermylus &amp; Stratonicus"/>
+		<chapter file="0114344" name="January 14: Apodosis Of Holy Theophany"/>
+		<chapter file="0115257" name="January 15: Our Venerable Fathers Paul of Thebes &amp; John the Hut-dweller"/>
+		<chapter file="0116" name="January 16: Precious Chains Of The Holy Pre-Eminent Apostle Peter"/>
+		<chapter file="0117345" name="January 17: Venerable &amp; God-Bearing Father Anthony The Great"/>
+		<chapter file="0118264" name="January 18: Saints Athanasius &amp; Cyril, Archbishops of Alexandria"/>
+		<chapter file="0119346" name="January 19: Our Venerable Father Macarius the Egyptian"/>
+		<chapter file="0120347" name="January 20: Our Venerable &amp; God-bearing Father Euthymius the Great"/>
+		<chapter file="0121258" name="January 21: Venerable Father Maximus the Confessor &amp; of the Holy Martyr Neophytus"/>
+		<chapter file="0121" name="January 21: Our Venerable Father Maximus the Greek"/>
+		<chapter file="0121348" name="January 21: Holy Martyr Agnes of Rome"/>
+		<chapter file="0122" name="January 22: Holy Martyr Alexander of Munich"/>
 		<chapter file="01223" name="Sunday of the New-Martyrs and Confessors of Russia"/>
-		<chapter file="0122349" name="Holy Apostle Timothy &amp; Venerable Martyr Anastasius the Persian"/>
-		<chapter file="0123350" name="Holy Hieromartyr Clement, Bishop of Ancyra"/>
-		<chapter file="0124351" name="Venerable Mother Xenia"/>
-		<chapter file="0124352" name="Holy Xenia, Blessed in Christ, the Homeless Wanderer of Saint Petersburg"/>
-		<chapter file="0125265" name="St. Gregory the Theologian, Archbishop of Constantinople"/>
-		<chapter file="0126" name="Our Venerable Father Xenophon of Constantinople, Mary, his wife, and their sons, Arcadius and John"/>
-		<chapter file="0127" name="Translation of the Relics of Our Father among the Saints, John Chrysostom, Archbishop of Constantinople"/>
-		<chapter file="0128353" name="Our Venerable Father Ephraim the Syrian"/>
-		<chapter file="0128576" name="Our Father among the Saints Isaac the Syrian, Bishop of Nineveh"/>
-		<chapter file="0129266" name="Translation of the Relics of the Holy Hieromartyr Ignatius the God-bearer"/>
-		<chapter file="0130354" name="Commemoration of Our Holy Fathers, the Great Hierarchs Basil the Great, Gregory the Theologian &amp; John Chrysostom"/>
-		<chapter file="0131267" name="Holy Wonder-workers &amp; Unmercenary Physicians Cyrus &amp; John"/>
+		<chapter file="0122349" name="January 23: Holy Apostle Timothy &amp; Venerable Martyr Anastasius the Persian"/>
+		<chapter file="0123350" name="January 23: Holy Hieromartyr Clement, Bishop of Ancyra"/>
+		<chapter file="0124351" name="January 24: Venerable Mother Xenia"/>
+		<chapter file="0124352" name="January 24: Holy Xenia, Blessed in Christ, the Homeless Wanderer of Saint Petersburg"/>
+		<chapter file="0125265" name="January 25: St. Gregory the Theologian, Archbishop of Constantinople"/>
+		<chapter file="0126" name="January 26: Our Venerable Father Xenophon of Constantinople, Mary, his wife, and their sons, Arcadius and John"/>
+		<chapter file="0127" name="January 27: Translation of the Relics of Our Father among the Saints, John Chrysostom, Archbishop of Constantinople"/>
+		<chapter file="0128353" name="January 28: Our Venerable Father Ephraim the Syrian"/>
+		<chapter file="0128576" name="January 28: Our Father among the Saints Isaac the Syrian, Bishop of Nineveh"/>
+		<chapter file="0129266" name="January 29: Translation of the Relics of the Holy Hieromartyr Ignatius the God-bearer"/>
+		<chapter file="0130354" name="January 30: Commemoration of Our Holy Fathers, the Great Hierarchs Basil the Great, Gregory the Theologian &amp; John Chrysostom"/>
+		<chapter file="0131267" name="January 31: Holy Wonder-workers &amp; Unmercenary Physicians Cyrus &amp; John"/>
 	</manifest>
 </bookdata>
