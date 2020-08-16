@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a Manifest file for the eTHEKE library -->
+<bookdata>
+	<head>
+		<meta name="uuid" content="b7004737-a403-47b8-beb4-6920764d42e5"/>
+		<meta name="lang" content="en"/>
+		<meta name="title" content="Menaion, September"/>
+		<meta name="latin" content="MenaionLambertsenSeptember"/>
+		<meta name="publisher" content="SJKP"/>
+		<meta name="year" content="2000"/>
+		<meta name="note" content="Not clear what the edition was"/>
+	</head>
+	<manifest>
+		<chapter file="0901" name="Begining of the Indiction &amp; Commemoration of our Venerable Father Simeon"/>
+		<chapter file="0902389" name="Holy Martyr Mamas &amp; St. John The Faster, Patriarch Of Constantinople"/>
+		<chapter file="0903" name="Holy Hieromartyr Anthimus, Bishop of Nicomedia"/>
+		<chapter file="0903234" name="Holy Passion-Bearer Edward, King of England"/>
+		<chapter file="0904" name="Holy Hieromartyr Babylas &amp; Holy Prophet Moses"/>
+		<chapter file="0904456" name="Holy Hierarch Joasaph, Bishop of Belgorod"/>
+		<chapter file="0905" name="Holy Prophet Zacharias &amp; the Holy Righteous Elizabeth"/>
+		<chapter file="0905490" name="Martyred Monk Athanasius, Abbot of Brest"/>
+		<chapter file="0906" name="Commemoration of the Miracle performed by the Archangel Michael at Colossae"/>
+		<chapter file="0906678" name="Righteous Prince Peter &amp; Princess Febronia, Wonderworkers of Murom"/>
+		<chapter file="0907" name="Saturday before the Exaltation of the Cross"/>
+		<chapter file="0907123" name="Forefeast of the Nativity of the All-holy Theotokos &amp; Commemoration of the Holy Martyr Sozon"/>
+		<chapter file="0907492" name="Holy Venerable Martyr Macarius, Wonderworker of Kanev"/>
+		<chapter file="0907898" name="Venerable Mother Cassiana, the Hymnographer"/>
+		<chapter file="0908" name="Finding of the Wonderworking Icon of the Most Holy Theotokos Known As the Kursk-Root Icon of the Sign"/>
+		<chapter file="0908493" name="Nativity of the All-holy Theotokos and Ever-virgin Mary"/>
+		<chapter file="0909338" name="Commemoration of the Holy &amp; Righteous Ancestors of God, Joachim &amp; Anna"/>
+		<chapter file="0910" name="Holy Martyrs Menodora, Metrodora and Nymphodora"/>
+		<chapter file="0911" name="Venerable Mother Theodora of Alexandria"/>
+		<chapter file="0911567" name="Our Venerable Fathers Sergius and Herman, Wonderworkers of Valaam"/>
+		<chapter file="0912" name="Leave-taking of the Nativity of the All-holy Theotokos"/>
+		<chapter file="0913405" name="Commemoration of the Dedication of the Church of the Holy Sepulcher &amp; Holy Hieromartyr Cornelius the Centurion"/>
+		<chapter file="0914406" name="Universal Exaltation of the Precious &amp; Life-creating Cross"/>
+		<chapter file="0915" name="Holy Greatmartyr Nicetas"/>
+		<chapter file="0915407" name="Appearance of the Wonder-Working Lesna Icon of the All-Holy Theotokos"/>
+		<chapter file="0916390" name="Holy Greatmartyr Euphemia the Most Praised"/>
+		<chapter file="0917" name="Holy Martyrs Sophia &amp; Her Three Daughters:"/>
+		<chapter file="0918" name="Venerable Father Eumenius, Bishop Of Gortyna, The Wonderworker"/>
+		<chapter file="0919" name="Holy Martyrs Trophimus, Sabbatius &amp; Dorymedon"/>
+		<chapter file="0919527" name="Holy Passion-bearer, the Pious Prince Igor of Chernigov"/>
+		<chapter file="0920408" name="Holy Greatmartyr Eustathius"/>
+		<chapter file="0921" name="Leave-taking of the Exaltation of the Precious Cross"/>
+		<chapter file="0921529" name="St. Demetrius, Metropolitan of Rostov, the Wonderworker"/>
+		<chapter file="0922" name="Holy Hieromartyr Phocas, Bishop of Sinope"/>
+		<chapter file="0922409" name="Commemoration Of Our Venerable Fathers Whose Incorrupt Relics Rest In The Near Caves Of Kiev"/>
+		<chapter file="0922512" name="Service to the Twenty-Six Martyred Monks of Zographou"/>
+		<chapter file="0923" name="Conception of the Honorable and Glorious Prophet, Forerunner and Baptist John"/>
+		<chapter file="0924" name="Holy Protomartyr and Equal of the Apostles Thecla"/>
+		<chapter file="0925" name="Venerable Mother Euphrosyne"/>
+		<chapter file="0925410" name="Venerable Father Sergius The Wonder-Worker, Abbot Of Radonezh"/>
+		<chapter file="0926411" name="Repose Of The Holy Apostle &amp; Evangelist John The Theologian"/>
+		<chapter file="0927412" name="Holy Martyr Callistratus &amp; His Companions"/>
+		<chapter file="0928" name="Venerable Father Chariton the Confessor"/>
+		<chapter file="0928530" name="Holy Passion-bearer, the Right-believing Prince Wenceslaus of Bohemia"/>
+		<chapter file="0929" name="Venerable Father Cyriacus the Anchorite"/>
+		<chapter file="0930402" name="Holy Hieromartyr Gregory Of Greater Armenia"/>
+		<chapter file="0930531" name="St. Michael, First Metropolitan of Kiev, Wonderworker of All Russia"/>
+	</manifest>
+</bookdata>
