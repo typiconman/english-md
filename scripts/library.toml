@@ -1,0 +1,95 @@
+# Catalog of the Ponomar Library of liturgical texts in English.
+#
+# Everything that is NOT in the books' own manifest.xml lives here: the display
+# titles, the grouping on the front page, and (optionally) PDF scans.  A book folder
+# that is not listed here is still built — it appears under "Other books" with the
+# data from its manifest — so adding a book to the repository never breaks the site.
+#
+# Per book:
+#   category      id of a front-page section below
+#   title         display title (default: the manifest title)
+#   edition       edition line (default: "publisher, year" from the manifest)
+#
+# ── PDF scans (none yet) ────────────────────────────────────────────────────
+# Each [[books.X.pdf]] entry is one PDF volume, served from the site's pdf/ folder
+# (see --pdf-url in build_library.py).  Once any book has one, the build also
+# installs the pdf.js viewer (needs --fetch-pdfjs once) and writes scan.html.
+#
+#   file          file name inside pdf/
+#   offset        PDF page index = page number in the <<…>> tag + offset.
+#   from_chapter  (multi-volume books) first chapter, by manifest file name, whose
+#                 page links go to this volume; earlier chapters use the earlier volume.
+#   label_en      name of the volume, e.g. "Part 2"
+#
+# Page links come from <<25>> tags in the chapter files, as in the Church Slavonic
+# library; scans are prepared with scripts/prepare_pdf.py from slavonic/cu-md-sandbox.
+
+[site]
+title_en = "Ponomar Library of Liturgical Texts in English"
+repository = "https://github.com/typiconman/english-md"
+report_issue = "https://github.com/typiconman/english-md/issues/new"
+cu_library = "https://www.ponomar.net/maktabah/"
+sci = "https://sci.ponomar.net/"
+
+# Front-page sections, in display order.
+[[categories]]
+id = "menaion"
+en = "Menaion"
+compact = true          # twelve similar covers: shown as a denser shelf
+
+[[categories]]
+id = "other"
+en = "Other books"
+
+# ── Books ────────────────────────────────────────────────────────────────────
+# Within a category, books appear in the order listed here.
+
+# Menaion in the order of the church year, September to August.
+
+[books.MenaionLambertsenSeptember]
+category = "menaion"
+title = "Menaion: September"
+
+[books.MenaionLambertsenOctober]
+category = "menaion"
+title = "Menaion: October"
+
+[books.MenaionLambertsenNovember]
+category = "menaion"
+title = "Menaion: November"
+
+[books.MenaionLambertsenDecember]
+category = "menaion"
+title = "Menaion: December"
+
+[books.MenaionLambertsenJanuary]
+category = "menaion"
+title = "Menaion: January"
+
+[books.MenaionLambertsenFebruary]
+category = "menaion"
+title = "Menaion: February"
+
+[books.MenaionLambertsenMarch]
+category = "menaion"
+title = "Menaion: March"
+
+[books.MenaionLambertsenApril]
+category = "menaion"
+title = "Menaion: April"
+
+[books.MenaionLambertsenMay]
+category = "menaion"
+title = "Menaion: May"
+
+[books.MenaionLambertsenJune]
+category = "menaion"
+title = "Menaion: June"
+
+[books.MenaionLambertsenJuly]
+category = "menaion"
+title = "Menaion: July"
+
+[books.MenaionLambertsenAugust]
+category = "menaion"
+title = "Menaion: August"

@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+{% from "_macros.html" import icon, cover, scan_href with context %}
+{% block meta %}
+<meta name="description" content="{{ site.title_en }}. Orthodox liturgical books in English: read online, copy and print.">
+{% endblock %}
+{% block body %}
+<header class="masthead">
+  <div class="masthead-in">
+    <a class="brand" href="{{ root }}index.html">Ponomar</a>
+  </div>
+</header>
+
+<main id="main" class="library">
+  <section class="intro">
+    <h1>{{ site.title_en }}</h1>
+    <p class="tagline">{{ t('tagline') }}</p>
+    <figure class="verse">
+      <blockquote class="cu"><span class="bukvitsa">L</span>et my prayer be set forth as incense before Thee, the lifting up of my hands as an evening sacrifice.</blockquote>
+      <figcaption>Psalm 140:2 (LXX), sung at Vespers</figcaption>
+    </figure>
+  </section>
+
+  <div class="finder" role="search">
+    <label class="search">
+      {{ icon('search') }}
+      <span class="sr-only">{{ t('find_book') }}</span>
+      <input type="search" id="book-filter" autocomplete="off" spellcheck="false" placeholder="{{ t('find_placeholder') }}">
+    </label>
+    <nav class="shelf-index" aria-label="Sections">
+      {% for c in categories %}<a href="#cat-{{ c.id }}">{{ c.en }}</a>{% endfor %}
+    </nav>
+  </div>
+
+  <p class="no-match" hidden>{{ t('no_match') }} <button type="button" class="linklike" data-clear-filter>{{ t('clear_search') }}</button></p>
+
+  <div class="shelves">
+  {% for c in categories %}
+  <section style="--n:{{ c.books|length }}" class="shelf{% if c.compact %} shelf-compact{% endif %}" id="cat-{{ c.id }}" aria-labelledby="h-{{ c.id }}">
+    <h2 id="h-{{ c.id }}">{{ c.en }}</h2>
+    <ul class="books">
+      {% for b in c.books %}
+      <li class="book" data-search="{{ (b.title ~ ' ' ~ b.id ~ ' ' ~ b.edition ~ ' ' ~ b.year)|lower }}">
+        <a class="cover" href="{{ root }}{{ b.id }}/index.html" tabindex="-1" aria-hidden="true">{{ cover(b, root) }}</a>
+        <h3 class="book-title"><a href="{{ root }}{{ b.id }}/index.html">{{ b.title }}</a></h3>
+        <p class="book-edition">{{ b.edition }}</p>
+        <p class="book-actions">
+          {% if b.chapters %}<a class="btn btn-read" href="{{ root }}{{ b.id }}/{{ b.chapters[0].href }}">{{ t('read') }}</a>{% endif %}
+          {% if b.volumes %}<a class="btn btn-scan" href="{{ scan_href(root, b) }}">{{ icon('scan') }}{{ t('scan_short') }}</a>{% endif %}
+        </p>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endfor %}
+  </div>
+
+  <section class="about" aria-labelledby="h-about">
+    <h2 id="h-about">{{ t('about_title') }}</h2>
+    <p>{{ t('about_text') }}</p>
+    <p class="about-links">
+      <a href="{{ site.repository }}">{{ t('source_on_github') }}</a>
+      <a href="{{ site.report_issue }}">{{ t('report_error') }}</a>
+      {% if site.cu_library %}<a href="{{ site.cu_library }}">{{ t('church_slavonic') }}</a>{% endif %}
+    </p>
+  </section>
+</main>
+
+<footer class="colophon">
+  <p><a href="{{ site.sci }}">{{ t('supported_by') }}</a></p>
+</footer>
+{% endblock %}
